@@ -35,8 +35,8 @@ add_executable(UI src/qt/mainwindow.h src/qt/main.cpp src/qt/mainwindow.cpp src/
 target_link_libraries(UI Qt5::Widgets Qt5::Gui Qt5::Core ${OpenCV_LIBRARIES})
 
 # The controller
-add_executable(controller src/controller.cpp)
-target_link_libraries(controller ${catkin_LIBRARIES})
+#add_executable(controller src/controller.cpp)
+#target_link_libraries(controller ${catkin_LIBRARIES})
 
 
 
