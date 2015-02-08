@@ -1,0 +1,8 @@
+<package>
+  <description>The qt_drone package</description>
+
+  <license>BSD</license>
+
+  <depend package="drone_project" />
+  
+</package>

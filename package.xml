@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>qt_drone</name>
+  <version>0.0.0</version>
+  <description>The qt_drone package</description>
+
+  <maintainer email="93arianna.ye@gmail.com">Yerianna</maintainer>
+
+  <license>BSD</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>drone_project</build_depend>
+  <run_depend>drone_project</run_depend>
+
+
+  <export>
+
+  </export>
+</package>
